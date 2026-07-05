@@ -36,7 +36,7 @@ const GetStartedModal = () => {
             <div className="flex items-center justify-between px-8 py-5 border-b border-gray-100">
               <div>
                 <h2 className="text-blue-950 font-black text-xl">Get Started Free</h2>
-                <p className="text-gray-400 text-xs mt-0.5">Tell us about your business and we'll be in touch.</p>
+                <p className="text-gray-400 text-xs mt-0.5">Tell us about your business and we&apos;ll be in touch.</p>
               </div>
               <button
                 onClick={() => setOpen(false)}

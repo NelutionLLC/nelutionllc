@@ -130,7 +130,7 @@ const DashboardPage = () => {
                 </div>
                 <p className="text-blue-950 font-semibold text-sm mb-1">No clients yet</p>
                 <p className="text-gray-400 text-xs max-w-xs">
-                  Once you onboard a client, they'll appear here with their site status and plan.
+                  Once you onboard a client, they&apos;ll appear here with their site status and plan.
                 </p>
                 <button className="mt-5 bg-blue-950 text-white text-xs font-bold px-5 py-2 rounded-lg hover:bg-blue-900 transition-colors duration-200 cursor-pointer">
                   Onboard First Client
